@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun  5 23:54:19 2022
 
-@author: USER
-"""
 
 import re
 import os

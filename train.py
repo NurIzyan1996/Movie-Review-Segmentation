@@ -56,5 +56,5 @@ y_true, y_pred = me.predict_model(model,X_test,y_test,nb_categories)
 me.report_metrics(y_true,y_pred)
 
 #%%
-# STEP 9: Model Deployment
+# STEP 8: Model Deployment
 model.save(MODEL_SAVE_PATH)

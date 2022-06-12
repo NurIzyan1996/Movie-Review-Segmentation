@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  6 00:51:23 2022
-
-@author: USER
-"""
 
 import os
 import json
